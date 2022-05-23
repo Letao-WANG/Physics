@@ -1,0 +1,91 @@
+# Physics 2022.05.23
+
+
+
+## Photon
+
+The Photon is a type of ***elementary particle*** that serves as the quantum of the electromagnetic field, including ***electromagnetic radiation*** such as ***light*** and ***radio waves***.
+
+The Photon is also the ***force carrier*** for the electromagnetic force.
+
+It is massless and moves at the speed of light in vacuum. And it is ***bosons***.
+
+--------------------------
+
+To be continued...
+
+
+
+### Elementary particle
+
+An elementary particle or fundamental particle is a ***subatomic particle*** that is not composed of other particles, such as ***fermions*** and ***bosons***.
+
+#### Subatomic particle 
+
+It is a particle that composes an atom. It can be either a composite particle (proton, neutron) or an elementary particle (electron, photon).
+
+#### fermions
+
+It has a half-odd-integer spin: spin 1/2, spin 3/2, etc.
+
+In addition, these particles obey the Pauli exclusion principle.
+
+e.g. proton, neutron, electron, etc.
+
+#### bosons
+
+Its spin quantum number has an integer value (0, 1, 2, etc.)
+
+e.g. photon, etc.
+
+
+
+### Electromagnetic radiation
+
+Electromagnetic radiation (EMR) consists of waves of the EM field, carrying EM ***radiant energy***. It includes radio waves, microwaves, visible light, x-rays, etc. All of these waves form part of the electromagnetic spectrum.
+
+Classically, electromagnetic radiation consists of EM waves.
+
+#### Radiant energy
+
+Radiant energy is the energy of electromagnetic and gravitational radiation. 
+
+SI unit is the joule.
+
+
+
+### Light
+
+It may refer more broadly to EM radiation of any wavelength.
+
+Like all types of EM radiation, visible light propagates by massless elementary particles called photons that represent the quanta of the EM field and can be analyzed as both waves and particles.
+
+
+
+### Radio waves
+
+A type of EM radiation with the longest wavelengths in the EM spectrum.
+
+
+
+### Force carrier
+
+Force carrier, or messenger particle, or intermediate particle, is a type of particle that gives rise to forces between other particles.
+
+These particles serve as the quanta.
+
+
+
+### bosons
+
+Has explained.
+
+
+
+## Q&A
+
+### 1. Difference between EM radiation and EM wave?
+
+EM radiation originates from the electric and magnetic fields.
+
+EM radiation is a form of energy, which is originated from accelerating charges, whereas EM wave is a model used to explain the behavior of the emissions.
